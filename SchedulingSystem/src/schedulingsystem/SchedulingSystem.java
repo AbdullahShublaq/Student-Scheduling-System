@@ -1,6 +1,10 @@
 
 package SchedulingSystem;
 
+/*
+auther : Abdullah Shublaq
+*/
+
 import java.util.Scanner;
 
 public class SchedulingSystem {
