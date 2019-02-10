@@ -1,9 +1,10 @@
 
 package SchedulingSystem;
 
-/*
-auther : Abdullah Shublaq
-*/
+/**
+ *
+ * @author Abdullah Shublaq
+ */
 
 import java.util.Scanner;
 
